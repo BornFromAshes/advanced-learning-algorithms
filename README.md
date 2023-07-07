@@ -19,3 +19,6 @@ By the end of this Specialization, you will have mastered key theoretical concep
 All practice labs for this course can be found in this repository, They are pretty self-explanatory and are completed by me. The certificate of this course and proof of completion are also provided below.
 
 ## Certificate
+<a href = "https://coursera.org/share/1e257ce96b2e25aff3914f3ad6f43f03">
+  <img src="https://github.com/BornFromAshes/advanced-learning-algorithms/blob/main/Coursera_Certificate.png">
+</a>
